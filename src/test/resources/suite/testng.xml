@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Autoamtion Suite for Saucedemo">
+	<listeners>
+		<listener class-name="saucedemo.listener.TestListener"></listener>
+	</listeners>
+	<test name="Functional Testcases for Saucedemo">
+		<classes>
+			<class name="saucedemo.testcases.LoginPageTest" />
+		</classes>
+	</test> <!-- Functional Testcases for Saucedemo -->
+</suite> <!-- Autoamtion Suite for Saucedemo -->

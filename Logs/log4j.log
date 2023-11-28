@@ -1,0 +1,13 @@
+[INFO ] 2023-11-28 21:45:23.456 [main] ConfigReader - config.properties file loaded.
+[INFO ] 2023-11-28 21:45:23.474 [main] ConfigReader - Value of key 'url' in the config.properties file is 'https://www.saucedemo.com'.
+[INFO ] 2023-11-28 21:45:23.476 [main] ConfigReader - config.properties file loaded.
+[INFO ] 2023-11-28 21:45:23.477 [main] ConfigReader - Value of key 'browser' in the config.properties file is 'Chrome'.
+[INFO ] 2023-11-28 21:45:23.576 [main] TestListener - Execution of loginWithValidCredentials has started.
+[INFO ] 2023-11-28 21:45:23.626 [main] ConfigReader - config.properties file loaded.
+[INFO ] 2023-11-28 21:45:23.627 [main] ConfigReader - Value of key 'browser' in the config.properties file is 'Chrome'.
+[INFO ] 2023-11-28 21:45:23.631 [main] LoginPageTest - Browsre : Chrome
+[INFO ] 2023-11-28 21:45:23.633 [main] LoginPageTest - Inside the loginWithValidCredentials
+[INFO ] 2023-11-28 21:45:23.641 [main] DataReader - data.properties file loaded.
+[INFO ] 2023-11-28 21:45:23.644 [main] DataReader - Value of key 'lp_page_title' in the data.properties file is 'Swag Labs'.
+[INFO ] 2023-11-28 21:45:23.647 [main] LoginPageTest - LoginPage Title : Swag Labs
+[INFO ] 2023-11-28 21:45:23.661 [main] TestListener - Execution of loginWithValidCredentials has passed.
